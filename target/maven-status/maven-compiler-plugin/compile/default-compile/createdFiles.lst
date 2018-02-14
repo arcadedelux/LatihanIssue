@@ -1,0 +1,6 @@
+com/mycompany/latihanissue/entity/Kelurahan.class
+com/mycompany/latihanissue/repository/KelurahanRepository.class
+com/mycompany/latihanissue/MainApp.class
+com/mycompany/latihanissue/service/WilayahService.class
+com/mycompany/latihanissue/repository/KecamatanRepository.class
+com/mycompany/latihanissue/entity/Kecamatan.class
